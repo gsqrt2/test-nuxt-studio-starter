@@ -6,5 +6,5 @@
 [Back home](/)
 
 ::alert{color="red"}
-This is the alert content
+This is the alert content 11
 ::
