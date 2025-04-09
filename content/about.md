@@ -5,6 +5,12 @@
 
 [Back home](/)
 
-::alert{color="red"}
+::alert
+---
+color: red
+---
 This is the alert content 11
+
+#test section
+test section text
 ::
